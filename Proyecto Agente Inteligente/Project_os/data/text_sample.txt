@@ -1,0 +1,1 @@
+The pattern.web module has tools for online data mining: asynchronous requests, a uniform API for web services (Google, Bing, Twitter, Facebook, Wikipedia, Wiktionary, Flickr, RSS), a HTML DOM parser, HTML tag stripping functions, a web crawler, webmail, caching, Unicode support.
